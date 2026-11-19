@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi Sentinel</string>
+    <string name="app_brand_display">WIFI SENTINEL</string>
+    <string name="app_tagline">Local Wireless Security Analysis</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_networks">Networks</string>
+    <string name="nav_wordlists">Wordlists</string>
+    <string name="nav_security_lab">Security Lab</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Common -->
+    <string name="action_cancel">Cancel</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_close">Close</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_reveal">Reveal</string>
+    <string name="action_hide">Hide</string>
+    <string name="action_export_txt">Export TXT</string>
+    <string name="action_export_pdf">Export PDF</string>
+    <string name="action_grant_permission">Grant Permissions</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_wifi_status">WI-FI INTERFACE STATUS</string>
+    <string name="dashboard_connected">Connected</string>
+    <string name="dashboard_disconnected">Disconnected</string>
+    <string name="dashboard_wifi_disabled">Wi-Fi Disabled</string>
+    <string name="dashboard_ssid_restricted">Restricted by OS Permission</string>
+    <string name="dashboard_quick_actions">Quick Actions</string>
+    <string name="dashboard_recent_activity">Recent Activity</string>
+    <string name="dashboard_no_activity">No recorded activity yet. Scan nearby networks, import a wordlist, or run an analysis.</string>
+    <string name="stat_networks">Networks</string>
+    <string name="stat_wordlists">Wordlists</string>
+    <string name="stat_analyzed">Analyzed</string>
+    <string name="stat_assessments">Assessments</string>
+
+    <!-- Permissions -->
+    <string name="perm_wifi_title">Wi-Fi &amp; Location Access</string>
+    <string name="perm_wifi_rationale">Android requires Location and Nearby Wi-Fi Devices permissions to read nearby SSIDs and perform passive Wi-Fi scans. WiFi Sentinel never transmits location or network data off your device.</string>
+    <string name="perm_granted">Granted</string>
+    <string name="perm_required">Permission Required</string>
+
+    <!-- Privacy & Ethics -->
+    <string name="passive_scan_notice">Passive discovery only. Android may throttle scans (4 per 2 minutes in foreground) or return cached results based on OS restrictions.</string>
+    <string name="owner_auth_notice">Only assess networks you own or have explicit written authorization to evaluate. No automated password guessing or authentication bypass is performed.</string>
+</resources>

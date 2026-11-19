@@ -1,0 +1,6 @@
+{
+  "name": "WiFi Sentinel",
+  "description": "Privacy-focused local Wi-Fi security analysis, wordlist manager, password strength engine, and authorized security assessment lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

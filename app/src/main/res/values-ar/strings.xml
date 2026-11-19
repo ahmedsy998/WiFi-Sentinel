@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi Sentinel</string>
+    <string name="app_brand_display">واي فاي سنتينل</string>
+    <string name="app_tagline">تحليل أمان الشبكات اللاسلكية محلياً</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">لوحة التحكم</string>
+    <string name="nav_networks">الشبكات</string>
+    <string name="nav_wordlists">قوائم الكلمات</string>
+    <string name="nav_security_lab">مختبر الأمان</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Common -->
+    <string name="action_cancel">إلغاء</string>
+    <string name="action_confirm">تأكيد</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_close">إغلاق</string>
+    <string name="action_retry">إعادة المحاولة</string>
+    <string name="action_refresh">تحديث</string>
+    <string name="action_copy">نسخ</string>
+    <string name="action_reveal">إظهار</string>
+    <string name="action_hide">إخفاء</string>
+    <string name="action_export_txt">تصدير TXT</string>
+    <string name="action_export_pdf">تصدير PDF</string>
+    <string name="action_grant_permission">منح الأذونات</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_wifi_status">حالة واجهة واي فاي</string>
+    <string name="dashboard_connected">متصل</string>
+    <string name="dashboard_disconnected">غير متصل</string>
+    <string name="dashboard_wifi_disabled">الواي فاي معطل</string>
+    <string name="dashboard_ssid_restricted">مقيّد بإذن النظام</string>
+    <string name="dashboard_quick_actions">إجراءات سريعة</string>
+    <string name="dashboard_recent_activity">النشاط الأخير</string>
+    <string name="dashboard_no_activity">لا يوجد نشاط مسجل بعد. افحص الشبكات أو استورد قائمة كلمات أو حلل كلمة مرور.</string>
+    <string name="stat_networks">الشبكات</string>
+    <string name="stat_wordlists">القوائم</string>
+    <string name="stat_analyzed">تم تحليلها</string>
+    <string name="stat_assessments">التقييمات</string>
+
+    <!-- Permissions -->
+    <string name="perm_wifi_title">أذونات الواي فاي والموقع</string>
+    <string name="perm_wifi_rationale">يتطلب نظام أندرويد أذونات الموقع والأجهزة القريبة لقراءة أسماء الشبكات وإجراء فحص سلبي. لا يرسل التطبيق أي بيانات خارج جهازك.</string>
+    <string name="perm_granted">ممنوح</string>
+    <string name="perm_required">الإذن مطلوب</string>
+
+    <!-- Privacy & Ethics -->
+    <string name="passive_scan_notice">فحص سلبي فقط. قد يقيّد نظام أندرويد عدد مرات الفحص أو يعيد نتائج مخزنة مؤقتاً حسب سياسات النظام.</string>
+    <string name="owner_auth_notice">قم بتقييم الشبكات التي تملكها أو لديك تفويض صريح باختبارها فقط. لا يتم تنفيذ أي تخمين تلقائي أو تجاوز للمصادقة.</string>
+</resources>
